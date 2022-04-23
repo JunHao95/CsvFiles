@@ -710,7 +710,7 @@
   },
   "Gmail": {
     "errorType": "status_code",
-    "url": "https://gamil.com/u/{}",
+    "url": "https://gmail.com/u/{}",
     "urlMain": "https://gmail.com/challenges",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis"
